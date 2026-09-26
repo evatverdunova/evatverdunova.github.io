@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /drafts/
+
+Sitemap: https://kvazi-team-alpha.github.io/sitemap.xml
